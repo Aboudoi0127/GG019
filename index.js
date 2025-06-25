@@ -23,7 +23,7 @@ client.on('ready', async () => {
 client.login(process.env.token);
 
 let time = 5000;
-let ch = "1387112512788365382";
+let ch = "1387162531004551279";
 
 function generate(number) {
   let gg = [];
